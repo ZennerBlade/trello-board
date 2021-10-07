@@ -1,0 +1,7 @@
+.headerTitle {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: large;
+  font-weight: 800;
+}
